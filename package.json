@@ -1,0 +1,12 @@
+{
+  "name": "random-color-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/SaraBurgin/random-color-generator.git",
+  "author": "Sara <saragonzalezburgin@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "randomcolor": "^0.5.4"
+  }
+}
